@@ -11,7 +11,7 @@ Projeto Movimental-Filmes.
 </p>
 
 <p align="center">
-  <img alt="License" src="https://user-images.githubusercontent.com/84647446/212435868-ed019c81-9455-43f0-8503-3b22bc82eb6d.jpg" width="500px">
+  <img alt="License" src="https://user-images.githubusercontent.com/84647446/212435868-ed019c81-9455-43f0-8503-3b22bc82eb6d.jpg" width="700px">
 </p>
 
 <br>
